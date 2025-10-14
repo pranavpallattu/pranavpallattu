@@ -74,8 +74,6 @@ A comprehensive full-stack e-commerce platform with advanced features for seamle
 
 ### 🎓 TechX - E-Learning Platform
 
-**Live Demo** | **Frontend Repository** | **Backend Repository**
-
 A comprehensive full-stack e-learning platform with dual dashboards for administrators and learners.
 
 **Tech Stack:** MERN, Razorpay, Cloudinary, Bootstrap, Material UI, Animate.css
@@ -83,8 +81,6 @@ A comprehensive full-stack e-learning platform with dual dashboards for administ
 ---
 
 ### 🎬 NetFlixGem - AI-Powered Movie Platform
-
-**Live Demo** | **GitHub Repository**
 
 A Netflix-style streaming platform featuring AI-powered semantic search and real-time movie data.
 

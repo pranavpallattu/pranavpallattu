@@ -1,105 +1,104 @@
-# 👋 Hi, I'm Pranav P S!
-
+💻 Hello, I'm Pranav P S
+MERN Stack Developer | Full-Stack Engineer
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E94B5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full-Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</div>
+https://img.shields.io/badge/Email-pranavpspallattu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white
+https://img.shields.io/badge/Location-Kochi,%2520Kerala-2E94B5?style=flat-square&logo=map&logoColor=white
+https://img.shields.io/badge/Phone-%252B919961501541-25D366?style=flat-square&logo=whatsapp&logoColor=white
+https://img.shields.io/badge/Portfolio-Visit%2520My%2520Portfolio-FF7139?style=flat-square&logo=react&logoColor=white
+https://img.shields.io/badge/LinkedIn-Connect%2520With%2520Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E94B5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full-Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" /></div>
+🚀 About Me
+I'm a passionate MERN Stack Developer with expertise in building scalable, high-performance full-stack applications. I specialize in creating seamless digital experiences using modern technologies like React.js, Node.js, Express.js, and MongoDB. With a strong foundation in computer science and hands-on experience in full-stack development, I'm dedicated to crafting solutions that solve real-world problems efficiently.
 
-## 🚀 About Me
+🎓 Bachelor of Computer Applications - St George's College Aruvithura
 
-I'm a **MERN Stack Developer** passionate about building scalable, high-performance full-stack applications. With expertise in **React.js**, **Node.js**, **Express.js**, and **MongoDB**, I craft seamless digital experiences that solve real-world problems.
+💼 MERN Stack Intern at Luminar Technolab, Kochi
 
-📍 **Location:** Kakkanad, Kochi, Kerala  
-📧 **Email:** pranavpspallattu@gmail.com  
-📱 **Phone:** +91-9961501541  
-🎓 **Education:** Bachelor of Computer Applications (BCA) - St George's College Aruvithura
+🏅 NACTET Certified MERN Stack Developer (Grade: A+)
 
----
+🌱 Currently expanding knowledge in cloud technologies and system design
 
-## 💻 Technical Skills
+💡 Passionate about clean code, performance optimization, and user experience
 
-<div align="center">
+🛠 Technical Stack
+Frontend Development
+<div align="left"> <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,html,css,tailwind,bootstrap,materialui" /> </div>
+Backend Development
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase" /> </div>
+Tools & Technologies
+<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,nginx,vercel,render,jest" /> </div>
+Core Competencies
+Frontend: React.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3, Responsive Design
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white)
+Backend: Node.js, Express.js, RESTful APIs, Authentication & Authorization
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Passport Auth](https://img.shields.io/badge/Passport%20Auth-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-00ADD8?style=for-the-badge)
+Database: MongoDB, SQL, Database Design & Optimization
 
-### Testing & Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Testing: Jest, React Testing Library
 
-### Deployment & Services
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+DevOps: AWS, Nginx, Vercel, Render, CI/CD
 
-</div>
+Authentication: JWT, Passport.js, OAuth
 
----
+Payment Integration: Stripe, Razorpay
 
-## 🏆 Featured Projects
+Media Handling: Cloudinary, Multer
 
-### 🛒 E-Commerce Platform (In Progress)
+💼 Professional Experience
+MERN Stack Intern | Luminar Technolab, Kochi
+August 2024 - March 2025 | Full-time On-site
 
-A comprehensive full-stack e-commerce platform with advanced features for seamless shopping and management.
+Developed and maintained full-stack web applications using the MERN stack
 
-**Tech Stack:** MERN, Passport.js, Stripe/Razorpay, AWS, Nginx, Nodemailer, Supabase, multer
+Implemented responsive UI components and optimized application performance
 
----
+Collaborated with team members on agile development processes
 
-### 🎓 TechX - E-Learning Platform
+Gained hands-on experience in deployment and cloud technologies
 
+🏆 Featured Projects
+🛒 E-Commerce Platform (In Progress)
+A comprehensive full-stack e-commerce solution with advanced features for seamless shopping and management.
+
+Tech Stack: MERN Stack, Passport.js, Stripe/Razorpay, AWS, Nginx, Nodemailer, Supabase, Multer
+Key Features: User authentication, payment integration, inventory management, order processing, admin dashboard
+
+🎓 TechX - E-Learning Platform
 A comprehensive full-stack e-learning platform with dual dashboards for administrators and learners.
 
-**Tech Stack:** MERN, Razorpay, Cloudinary, Bootstrap, Material UI, Animate.css
+Tech Stack: MERN Stack, Razorpay, Cloudinary, Bootstrap, Material UI, Animate.css
+Key Features: Course management, payment integration, progress tracking, admin panel, responsive design
 
----
-
-### 🎬 NetFlixGem - AI-Powered Movie Platform
-
+🎬 NetFlixGem - AI-Powered Movie Platform
 A Netflix-style streaming platform featuring AI-powered semantic search and real-time movie data.
 
-**Tech Stack:** React.js, Redux Toolkit, TailwindCSS, Firebase, Gemini API, TMDB API
+Tech Stack: React.js, Redux Toolkit, TailwindCSS, Firebase, Gemini API, TMDB API
+Key Features: AI semantic search, real-time data, responsive design, user authentication, movie recommendations
 
----
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true
 
-## 💼 Professional Experience
+https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true
 
-### MERN Stack Intern - Luminar Technolab, Kochi
-**Aug 2024 - Mar 2025** | Full-time On-site
+</div>
+📫 Let's Connect
+<div align="center">
+https://img.shields.io/badge/Email-pranavpspallattu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-Connect%2520With%2520Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-Visit%2520My%2520Portfolio-FF7139?style=for-the-badge&logo=react&logoColor=white
+https://img.shields.io/badge/GitHub-Follow%2520on%2520GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
----
+</div>
+<div align="center">
+📞 Open to new opportunities and collaborations!
+Let's build something amazing together
 
-## 📜 Certifications & Awards
+https://komarev.com/ghpvc/?username=yourusername&color=2E94B5&style=flat-square
 
-- 🏅 **NACTET Certification** in MERN Stack Development - **Grade: A+**
-
----
+</div>
 
 ## 🤝 Connect With Me
 

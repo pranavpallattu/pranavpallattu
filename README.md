@@ -1,4 +1,4 @@
-#  Hi, I'm Pranav P S
+#   I'm Pranav P S
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E94B5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full-Stack+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />

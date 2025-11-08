@@ -68,7 +68,7 @@ I'm a **MERN Stack Developer** passionate about building scalable full-stack app
 
 A comprehensive full-stack e-commerce platform with advanced features for seamless shopping and management.
 
-**Tech Stack:** MERN, Passport.js, JWT, Stripe/Razorpay, AWS, Nginx, Nodemailer, Supabase, multer
+**Tech Stack:** MERN, Passport.js, JWT, Stripe/Razorpay, AWS, Nginx, Nodemailer, Twilio, Supabase, Multer
 
 ---
 
